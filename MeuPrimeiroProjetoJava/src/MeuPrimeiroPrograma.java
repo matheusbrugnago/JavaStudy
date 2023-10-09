@@ -4,6 +4,7 @@ public class MeuPrimeiroPrograma {
         System.out.println(2*5*3);
         System.out.println(10/5);
         System.out.println(9+3);
+        System.out.println("Olá "+ args[0]);
         //Comentários são importantes
         //Ponto de entrada- Entrypoint-> Ponto que todos os sistemas procuram no seu
         //projeto para dar início
